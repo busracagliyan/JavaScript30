@@ -31,4 +31,4 @@
 | 27 | [click and drag](https://github.com/busracagliyan/JavaScript30/tree/main/27%20-%20click%20and%20drag) | [Live Demo](%27%20-%20click%20and%20drag/index.html) |
 | 28 | [video speed controller](https://github.com/busracagliyan/JavaScript30/tree/main/28%20-%20video%20speed%20controller) | [Live Demo](%28%20-%20video%20speed%20controller/index.html) |
 | 29 | [countdown timer](https://github.com/busracagliyan/JavaScript30/tree/main/29%20-%20countdown%20timer) | [Live Demo](%29%20-%20countdown%20timer/index.html) |
-| 30 | [whack a mole](https://github.com/busracagliyan/JavaScript30/tree/main/30%20-%20whack%20a%20mole) | [Live Demo](%30%20-%20whack%20a%20mole/index.html) |
+| 30 | [whack a mole](https://github.com/busracagliyan/JavaScript30/tree/main/30%20-%20whack%20a%20mole) | [Live Demo](https://busracagliyan.github.io/JavaScript30/30%20-%20whack%20a%20mole/index.html) |
