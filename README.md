@@ -2,8 +2,8 @@
 
 | # | Project | Live Demo |
 | --- | --- | --- |
-| 1 | [js drum kit](https://github.com/busracagliyan/JavaScript30/tree/main/01%20-%20js%20drum%20kit) | [Live Demo](https://busracagliyan.github.io/JavaScript30/01%20-%20js%20drum%20kit/index.html) |
-| 2 | [css + js clock](https://github.com/busracagliyan/JavaScript30/tree/main/02%20-%20css%20%2B%20js%20clock) | [Live Demo]() |
+| 1 | [js drum kit](https://github.com/busracagliyan/JavaScript30/tree/main/01%20-%20js%20drum%20kit) | [Live Demo](%01%20-%20js%20drum%20kit/index.html) |
+| 2 | [css + js clock](https://github.com/busracagliyan/JavaScript30/tree/main/02%20-%20css%20%2B%20js%20clock) | [Live Demo](https://busracagliyan.github.io/JavaScript30/02%20-%20css%20%2B%20js%20clock/index.html) |
 | 3 | [playing with css variables and js](https://github.com/busracagliyan/JavaScript30/tree/main/03%20-%20playing%20with%20css%20variables%20and%20js) | [Live Demo]() |
 | 4 | [array cardio day 1](https://github.com/busracagliyan/JavaScript30/tree/main/04%20-%20array%20cardio%20day%201) | [Live Demo]() |
 | 5 | [flex panels](https://github.com/busracagliyan/JavaScript30/tree/main/05%20-%20flex%20panels) | [Live Demo]() |
